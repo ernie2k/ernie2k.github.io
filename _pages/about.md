@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Personal academic website of Ernesto Cortes"
+title: "Welcome to my webpage"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
