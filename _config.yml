@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ernesto / Webpage"
+title                    : "Profile"
 title_separator          : "-"
 name                     : &name "Ernesto C. Cortes-Morales"
 description              : &description "Postdoctoral researcher, Theoretical Physics and Chemical Engineering"
