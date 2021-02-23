@@ -8,7 +8,7 @@ venue: 'The Journal of Chemical Physics'
 paperurl: 'https://aip.scitation.org/doi/abs/10.1063/5.0004200'
 citation: 'Elizondo-Aguilera, Luis F., Cortés-Morales, Ernesto C., Zubieta-Rico, Pablo F., Medina-Noyola, Magdaleno, Castañeda-Priego, Ramón, Voigtmann, Thomas, Pérez-Ángel, Gabriel (2020). &quot;Spherical harmonic projections of the static structure factor of the dipolar hard sphere model: Theory vs simulations.&quot; <i>The Journal of Chemical Physics</i>. 152(20).'
 ---
-
+Part of this work was produced during my PhD program at Universidad Autonoma de San Luis Potosi, Mexico.
 
 [Read paper here (requires institutional access)](https://aip.scitation.org/doi/abs/10.1063/5.0004200)
 
